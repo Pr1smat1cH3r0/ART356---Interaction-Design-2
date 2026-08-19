@@ -1,2 +1,2 @@
-# ART356---Interaction---Design---2
+# ART356_Interaction_Design_2
 Art 356
