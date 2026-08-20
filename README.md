@@ -11,7 +11,7 @@ You can use *Markdown* syntax, along with some additional HTML tags to format yo
 
 Hey check out this **cool**
 
-![image of a dog](https://www.awn.com/news/illumination-and-universal-adapt-clifford-big-red-dog)
+![image of a dog] (https://www.awn.com/news/illumination-and-universal-adapt-clifford-big-red-dog)
 
 ## Journal Example
 
